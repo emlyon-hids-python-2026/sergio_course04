@@ -5,7 +5,7 @@ A Python project for the emlyon business school Python programming course.
 ## Installation
 
 ```bash
-git clone git@github.com:emlyon-hids-python-2026/sergio_course04.git
+git clone https://github.com/emlyon-hids-python-2026/sergio_course04.git
 cd sergio_course04
 uv sync
 ```
